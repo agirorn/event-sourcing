@@ -22,6 +22,8 @@ __"From Greg Young"__
 > This allows you to see an entire conversation (correlation id) or to see what
 > causes what (causation id).
 
+[![][correlation-and-causation-id-image]][correlation-and-causation-id-link]
+
 # Workflows, Sagas and Choreography
 
 - [GOTO 2019 • Not Just Events: Developing Asynchronous Microservices • Chris Richardson](https://youtu.be/kyNL7yCvQQc?t=1277)
@@ -47,4 +49,5 @@ __CQRS and Event Sourcing Introduction with Greg Young__
 https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 
 [CQRS]: #CQRS
-
+[correlation-and-causation-id-link]: https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/
+[correlation-and-causation-id-image]: https://blog-arkency.imgix.net/correlation_id_causation_id_rails_ruby_event/CorrelationAndCausationEventsCommands.png?w=768&h=758&fit=max
