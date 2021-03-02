@@ -58,3 +58,55 @@ https://www.infoq.com/news/2020/10/svelte-edge-cloudflare-worker/
 https://github.com/lukeed/uvu
 https://www.youtube.com/watch?v=osk0ZBdBbx4
 https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
+
+
+## Event sourcing
+
+According to [Software Architecture and Design InfoQ Trends Report—April 2020]
+Event Sourcing is a being used by the Early Majority
+
+
+## Links
+
+- https://www.infoq.com/articles/architecture-trends-2020/
+- https://www.infoq.com/eventsourcing/
+- https://www.infoq.com/eventdrivenarchitecture/
+
+## Event driver microservice
+
+- Self-contained with clear interfaces and a distinct purpose
+- Loosely coupled - communicate over a network
+- Independently deployable, scalable, maintainable and testable
+
+## Videos
+
+- [Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c)
+- [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
+
+### #GoogleCloudNext
+
+- [Event-driven microservices with Cloud Run](https://www.youtube.com/watch?v=0N82S5fXpQE&feature=emb_logo
+
+
+
+
+### Tools
+
+#### Cloudevents
+
+- https://cloudevents.io/
+
+#### Knative
+
+- https://knative.dev/
+- https://cloud.google.com/knative
+- [VIDEO](https://www.youtube.com/watch?v=riq0x5xdfNg)
+
+
+
+## Eventual consistency
+
+- https://www.allthingsdistributed.com/2008/12/eventually_consistent.html
+
+
+[Software Architecture and Design InfoQ Trends Report—April 2020]: https://www.infoq.com/articles/architecture-trends-2020/
