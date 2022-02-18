@@ -25,3 +25,7 @@
 As of 2019 event are meats and potato's and its use is bigger then lambda's
 
 - https://www.youtube.com/watch?v=h46IquqjF3E
+
+## Design Microservice Architectures the Right Way
+
+https://www.youtube.com/watch?v=j6ow-UemzBc
