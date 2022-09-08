@@ -4,6 +4,10 @@
 
 - https://youtu.be/ksRCq0BJef8?t=1854
 
+## Intro to Event Sourcing with Apache Kafka ft. Anna McDonald
+
+- https://www.youtube.com/watch?v=cLH3_Tx5EbI
+
 ## Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore
 
 - https://www.youtube.com/watch?v=t2AI9hODJ2E&t=3541s
@@ -28,4 +32,8 @@ As of 2019 event are meats and potato's and its use is bigger then lambda's
 
 ## Design Microservice Architectures the Right Way
 
-https://www.youtube.com/watch?v=j6ow-UemzBc
+- https://www.youtube.com/watch?v=j6ow-UemzBc
+
+## Event Stores and Postgres
+
+- https://www.youtube.com/watch?v=JKRwuFZqvik&t=1632s
