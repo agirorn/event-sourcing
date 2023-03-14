@@ -8,3 +8,5 @@ changes maid in the system and reading and reporting on the changes maid in the
 system.
 
 Often this is used to populate read stores like elastic search or memcached.
+
+[cqrs_documents.pdf](cqrs_documents.pdf)

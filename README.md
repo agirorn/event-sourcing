@@ -11,6 +11,21 @@ Events sourcing has many benefits of being implemented using [CQRS]
 Events can be called state transitions but preferable they are called events.
 Never have getters and setters.
 
+**[Event Sourcing: Without Eventual Consistenc]**
+
+- [Articles](articles.md)
+- [Books](books.md)
+- [CQRS](cqrs.md)
+    * [cqrs_documents.pdf]
+- [Commands](commands.md)
+- [Events](events.md)
+- [Links](links.md)
+- [Notes](notes.md)
+- [Optimistic-concurrency-control](optimistic-concurrency-control.md)
+- [Set-validation](set-validation.md)
+- [Videos](videos.md)
+- [event-version](event-version.md)
+- [INTERESTING-STUFF](INTERESTING-STUFF.MD)
 
 # How to use correlationID and causationID
 
@@ -51,3 +66,18 @@ https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 [CQRS]: #CQRS
 [correlation-and-causation-id-link]: https://blog.arkency.com/correlation-id-and-causation-id-in-evented-systems/
 [correlation-and-causation-id-image]: https://blog-arkency.imgix.net/correlation_id_causation_id_rails_ruby_event/CorrelationAndCausationEventsCommands.png?w=768&h=758&fit=max
+[Event Sourcing: Without Eventual Consistency?]: https://www.jamesmichaelhickey.com/event-sourcing-eventual-consistency-isnt-necessary/
+
+[cqrs_documents.pdf]: cqrs_documents.pdf
+[Articles]: articles.md
+[Books]: books.md
+[CQRS]: cqrs.md)
+[Commands]: commands.md
+[Events]: events.md
+[Links]: links.md
+[Notes]: notes.md
+[Optimistic-concurrency-control]: optimistic-concurrency-control.md
+[Set-validation]: set-validation.md
+[Videos]: videos.md
+[event-version]: event-version.md
+[INTERESTING-STUFF]: INTERESTING-STUFF.MD
