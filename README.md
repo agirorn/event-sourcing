@@ -55,11 +55,10 @@ __"From Greg Young"__
 
 __CQRS and Event Sourcing Introduction with Greg Young__
 
-- [Part - 1]: https://www.youtube.com/watch?v=AspkNFjhHIM
-- [Part - 2]: https://www.youtube.com/watch?v=bkVV1eUMIs4
-- [Part - 3]: https://www.youtube.com/watch?v=b9KNUCH6rH0
-- [part - 4]: https://www.youtube.com/watch?v=o51kMltuSuQ
-
+- [Part - 1]
+- [Part - 2]
+- [Part - 3]
+- [part - 4]
 
 https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 
@@ -81,3 +80,10 @@ https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
 [Videos]: videos.md
 [event-version]: event-version.md
 [INTERESTING-STUFF]: INTERESTING-STUFF.MD
+
+
+[Part - 1]: https://www.youtube.com/watch?v=AspkNFjhHIM
+[Part - 2]: https://www.youtube.com/watch?v=bkVV1eUMIs4
+[Part - 3]: https://www.youtube.com/watch?v=b9KNUCH6rH0
+[part - 4]: https://www.youtube.com/watch?v=o51kMltuSuQ
+
