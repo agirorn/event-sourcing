@@ -11,7 +11,7 @@ Events sourcing has many benefits of being implemented using [CQRS]
 Events can be called state transitions but preferable they are called events.
 Never have getters and setters.
 
-**[Event Sourcing: Without Eventual Consistenc]**
+**[Event Sourcing: Without Eventual Consistency?]**
 
 - [Articles](articles.md)
 - [Books](books.md)
