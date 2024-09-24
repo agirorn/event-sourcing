@@ -1,6 +1,14 @@
 # Videos
 
+## Creating Future-Proof Spring Applications with Event Sourcing by Steve Pember @ Spring I/O 2024
+
+> Grate explanation of the benefits of Event Sourcing and CQRS
+
+- https://www.youtube.com/watch?v=xr6Gq3Cn4UQ
+
 ## GregYoung 8 CQRS Class
+
+> Avery detailed class on event sourcing and CQRS
 
 - https://www.youtube.com/watch?v=whCk1Q87_ZI
 
