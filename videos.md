@@ -1,16 +1,24 @@
 # Videos
 
-## Andrew Schofield from IBM explaining Event sourcing 
+## GregYoung 8 CQRS Class
 
-- https://youtu.be/ksRCq0BJef8?t=1854
+- https://www.youtube.com/watch?v=whCk1Q87_ZI
 
-## Intro to Event Sourcing with Apache Kafka ft. Anna McDonald
+## Event Stores and Postgres
 
-- https://www.youtube.com/watch?v=cLH3_Tx5EbI
+- https://www.youtube.com/watch?v=JKRwuFZqvik&t=1632s
 
 ## Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore
 
 - https://www.youtube.com/watch?v=t2AI9hODJ2E&t=3541s
+
+## Design Microservice Architectures the Right Way
+
+- https://www.youtube.com/watch?v=j6ow-UemzBc
+
+## Intro to Event Sourcing with Apache Kafka ft. Anna McDonald
+
+- https://www.youtube.com/watch?v=cLH3_Tx5EbI
 
 ## Why Event Sourced Systems Fail [eng] / Greg Young
 
@@ -30,10 +38,7 @@ As of 2019 event are meats and potato's and its use is bigger then lambda's
 
 - https://www.youtube.com/watch?v=h46IquqjF3E
 
-## Design Microservice Architectures the Right Way
+## Andrew Schofield from IBM explaining Event sourcing 
 
-- https://www.youtube.com/watch?v=j6ow-UemzBc
+- https://youtu.be/ksRCq0BJef8?t=1854
 
-## Event Stores and Postgres
-
-- https://www.youtube.com/watch?v=JKRwuFZqvik&t=1632s
