@@ -50,3 +50,6 @@ As of 2019 event are meats and potato's and its use is bigger then lambda's
 
 - https://youtu.be/ksRCq0BJef8?t=1854
 
+## Event Modeling / Event Sourcing applied
+
+- https://www.youtube.com/@nebulit
